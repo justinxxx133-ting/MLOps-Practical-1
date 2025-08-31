@@ -1,2 +1,4 @@
 # MLOps-Practical-1
 Ting Xu is writing here :D
+This is my first GitHub repository for the Reproducibility & Model Deployment course.  
+Author: Ting Xu
